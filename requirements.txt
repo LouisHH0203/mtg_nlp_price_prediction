@@ -10,3 +10,4 @@ ipykernel
 requests
 tensorflow
 keras
+gensim
