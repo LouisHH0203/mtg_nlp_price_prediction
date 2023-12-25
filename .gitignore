@@ -1,0 +1,5 @@
+venv/
+encode&w2vmodel/
+.keywords.model
+.sub_type.model
+.types.model
