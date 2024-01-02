@@ -11,3 +11,4 @@ requests
 tensorflow
 keras
 gensim
+spacy
