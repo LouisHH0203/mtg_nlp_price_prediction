@@ -12,3 +12,5 @@ tensorflow
 keras
 gensim
 spacy
+transformers
+torch
