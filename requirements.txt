@@ -9,10 +9,8 @@ pylint
 ipykernel
 requests
 tensorflow
-tensorflow-macos
 keras
 gensim
 spacy
 transformers
-torch
 pickleshare
