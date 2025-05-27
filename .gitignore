@@ -1,3 +1,5 @@
 .venv/
 data/
 /Users/louishagenbucher/Documents/GitHub/mtg_nlp_price_prediction/d:\temp\pickle_file/
+mtgjson_card_batches
+mtgjson_card_price_batches

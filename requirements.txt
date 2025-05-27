@@ -1,12 +1,7 @@
-aiohttp
-asyncio
 pandas
+polars
 numpy
-matplotlib
-seaborn
 scikit-learn
-pylint
-ipykernel
 requests
 tensorflow
 keras
@@ -16,3 +11,4 @@ spacy
 transformers
 pickleshare
 nltk
+streamlit
